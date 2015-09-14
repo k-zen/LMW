@@ -1,0 +1,4 @@
+======================== ALPHA RELEASES ==========================
+=================== Release 0.1.0 2015-XX-XX =====================
+Description
+    * First usable version of this library. (29/12/2014)
