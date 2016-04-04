@@ -1,4 +1,16 @@
 ======================== ALPHA RELEASES ==========================
-=================== Release 0.1.0 2015-XX-XX =====================
+=================== Release 0.2 2016-XX-XX =====================
 Description
-    * First usable version of this library. (29/12/2014)
+    *
+Functionalities
+    *
+Changes
+    * Version 0.2 Build 01 (2016/XX/XX)
+        * 
+
+=================== Release 0.1 2014-12-29 =====================
+Description
+    * First usable version of this library. (2014/12/29)
+Changes
+    * Version 0.1 Build 01 (2014/12/29) - RC1
+        * Basic functions with some support for SSL connections. (2014/12/28)
